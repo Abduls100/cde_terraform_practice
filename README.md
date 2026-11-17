@@ -1,0 +1,1 @@
+## This repo is created to practice Infrastruture as a code (IaC) using Terraform and resources are created on AWS
