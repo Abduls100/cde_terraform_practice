@@ -7,7 +7,7 @@ A practice repository for learning Infrastructure as Code (IaC) with Terraform o
 The worklow demostrate resource created at the staging and production layer. 
 
 ![Architecture diagram](images/AWS_proctice_workflow.png)
-```
+
 
 | Environment | Ingestion bucket | State key |
 | --- | --- | --- |
